@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NewsGateway</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="news_article_headline">News Article Headline</string>
+    <string name="news_article_date">News Article Date</string>
+    <string name="news_article_author_s">News Article Author(s)</string>
+    <string name="of"># of #</string>
+    <string name="news_article_text">News Article Text</string>
+    <string name="articleImage">Image Not Available</string>
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+</resources>
